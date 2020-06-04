@@ -1,0 +1,9 @@
+* Put custom target points around the map (they have navigation query variable, which is used on move) - DONE
+* For simple AI behaviour remove "Look at objects when moving" and "object interaction???"
+* Add another navigation query (shortcut), that could be used for some waypoints (such as at the red tree or right village) - DONE
+* Fix bug with sometimes not inspecting objects - DONE
+* Fix a bug where new waypoint is not set - DONE
+* Add small fix for when the agent is stuck in one place (check agent's movement speed) - DONE
+
+Separate test levels?
+Add automatic restart for AI (to make recording easier and constant)?
